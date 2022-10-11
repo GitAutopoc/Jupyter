@@ -1,0 +1,6 @@
+1)Install Jupyter:python -m pip install jupyter (or) pip install jupyter
+2)Launching Jupyter: jupyter notebook
+3)Create a python file Ex: first.ipnb
+4)From command prompt use the following commands
+   i) Command to convert .ipynb to .py  : jupyter nbconvert --to python first.ipynb
+   ii)Command to run python file python first.py
